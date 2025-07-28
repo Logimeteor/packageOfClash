@@ -1,3 +1,9 @@
+# 本次教程仓库地址
+
+> gitee ：https://gitee.com/logimeteor/package-of-clash.git
+>
+> github: https://github.com/Logimeteor/packageOfClash.git：
+
 # 版本对应关系
 
 ## ubuntu
